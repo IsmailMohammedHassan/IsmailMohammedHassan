@@ -13,7 +13,6 @@
 <a href="https://linkedin.com/in/ismail-raslan"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" /></a>
 <a href="https://github.com/IsmailMohammedHassan"><img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:ismail.raslan2@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=flat-square&logo=gmail&logoColor=FCA5A5" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=IsmailMohammedHassan&style=flat-square&color=6366f1&label=Profile+views" alt="Profile views" />
 
 </div>
 
@@ -65,6 +64,7 @@ Blockchain analytics · Cybersecurity · Data-intensive interfaces
 ## 02 / Experience
 
 ### 🚀 ToolTech — Co-Founder & Front-End Lead
+
 **Jan 2024 – Present** · Remote
 
 - Co-founded an AI automation startup helping businesses replace repetitive workflows with AI-powered web applications.
@@ -72,6 +72,7 @@ Blockchain analytics · Cybersecurity · Data-intensive interfaces
 - Build scalable dashboards and interfaces for configuring and managing AI-powered workflows.
 
 ### 📊 TapTools — Front-End Developer
+
 **Dec 2022 – Jun 2026** · Remote, United States
 
 - Built wallet and portfolio interfaces handling thousands of transactions and trades.
@@ -80,6 +81,7 @@ Blockchain analytics · Cybersecurity · Data-intensive interfaces
 - Developed reusable components across Token, NFT, and Wallet views.
 
 ### 🔐 Femto Security — Front-End Developer
+
 **Jan 2022 – Jan 2023** · Remote, Dubai, UAE
 
 - Built cybersecurity dashboards for vulnerability tracking, severity classification, and client reporting.
@@ -88,6 +90,7 @@ Blockchain analytics · Cybersecurity · Data-intensive interfaces
 - Collaborated with backend developers on output encoding and Content Security Policy.
 
 ### 🎓 Information Technology Institute (ITI) — Part-Time Instructor
+
 **Jan 2021 – Present**
 
 - Teach front-end development and React.js.
@@ -130,14 +133,14 @@ Blockchain analytics · Cybersecurity · Data-intensive interfaces
 
 ## 04 / What I Bring
 
-| Area | Expertise |
-| :-- | :-- |
-| **React.js & Next.js** | Component architecture, reusable UI, scalable applications |
+| Area                        | Expertise                                                             |
+| :-------------------------- | :-------------------------------------------------------------------- |
+| **React.js & Next.js**      | Component architecture, reusable UI, scalable applications            |
 | **Performance engineering** | Virtualization, pagination, memoization, lazy loading, code splitting |
-| **Real-time interfaces** | Live updates, request caching, efficient API fetching |
-| **Data-intensive products** | Blockchain analytics, portfolio interfaces, cybersecurity dashboards |
-| **Front-end security** | XSS prevention, output encoding, CSP |
-| **Technical leadership** | Co-founding a startup and leading front-end development |
+| **Real-time interfaces**    | Live updates, request caching, efficient API fetching                 |
+| **Data-intensive products** | Blockchain analytics, portfolio interfaces, cybersecurity dashboards  |
+| **Front-end security**      | XSS prevention, output encoding, CSP                                  |
+| **Technical leadership**    | Co-founding a startup and leading front-end development               |
 
 ## 05 / GitHub Activity
 
@@ -158,7 +161,7 @@ Blockchain analytics · Cybersecurity · Data-intensive interfaces
 
 **Building better experiences, one component at a time.**
 
-*Open to remote Front-End Developer opportunities.*
+_Open to remote Front-End Developer opportunities._
 
 [**LinkedIn**](https://linkedin.com/in/ismail-raslan) · [**GitHub**](https://github.com/IsmailMohammedHassan) · [**Email**](mailto:ismail.raslan2@gmail.com)
 
